@@ -12,23 +12,23 @@
 			<td>ENLACE WIKIPEDIA</td>
 		</tr>
 		<tr>
-			<td><img src="imagenes/pug.jpg" width="60%"></td>
+			<td><img src="https://tqel.es/img/cms/razas/carlinos.jpg" width="60%"></td>
 			<td><a href="https://es.wikipedia.org/wiki/Pug">Ir a wikipedia del Pug</td>
 		</tr>
 		<tr>
-			<td><img src="imagenes/beagle.jpg" width="60%"></td>
+			<td><img src="https://image.freepik.com/foto-gratis/perro-beagle-sentado-fondo-blanco_53876-30186.jpg" width="60%"></td>
 			<td><a href="https://es.wikipedia.org/wiki/Beagle">Ir a wikipedia del Beagle</td>
 		</tr>
 		<tr>
-			<td><img src="imagenes/rottweiler.jpg" width="60%"></td>
+			<td><img src="https://media.istockphoto.com/photos/rottweiler-dog-picture-id141254435?k=20&m=141254435&s=612x612&w=0&h=7t_ZzsX7F_e8upsH1g2mpbJzbadZqfwCU7wQMgHpQOg=" width="60%"></td>
 			<td><a href="https://es.wikipedia.org/wiki/Rottweiler">Ir a wikipedia del Rottweiler</td>
 		</tr>
 		<tr>
-			<td><img src="imagenes/doberman.jpg" width="45%"></td>
+			<td><img src="https://cdn.pixabay.com/photo/2019/10/08/11/10/doberman-pinscher-4534707_960_720.jpg" width="45%"></td>
 			<td><a href="https://es.wikipedia.org/wiki/D%C3%B3berman">Ir a Wikipedia del Dóberman</td>
 		</tr>
 		<tr>
-			<td><img src="imagenes/goldenretriever.jpg" width="60%"></td>
+			<td><img src="https://cdn.dogsplanet.com/wp-content/uploads/2019/10/golden-retriever.jpg" width="60%"></td>
 			<td><a href="https://es.wikipedia.org/wiki/Golden_retriever">Ir a Wikipedia del Golden retriever</td>
 		</tr>
 	</body>
